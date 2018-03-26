@@ -7,6 +7,6 @@
            remote="origin"
            sync-j="4" />
 
-  <project path="project/B" name="LocalManifestsDemo/project-B" revision="stable" />
-  <project path="project/C" name="LocalManifestsDemo/project-C" />
+  <project path="project1/B" name="LocalManifestsDemo/project-B" revision="stable" />
+  <project path="project1/C" name="LocalManifestsDemo/project-C" />
 </manifest>
